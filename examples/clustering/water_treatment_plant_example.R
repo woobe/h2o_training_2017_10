@@ -13,7 +13,7 @@ h2o.init(nthreads = -1)
 # ------------------------------------------------------------------------------
 
 # Import from GitHub
-# train = h2o.importFile("https://github.com/woobe/h2o_training_2017_10/blob/master/examples/classification/smartphone_sensors_train.csv.zip?raw=true")
+# train = h2o.importFile("https://github.com/woobe/h2o_training_2017_10/raw/master/examples/clustering/water_treatment_plant.csv")
 
 
 # or import the files locally if you have them
